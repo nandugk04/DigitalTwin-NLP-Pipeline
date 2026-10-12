@@ -1,0 +1,14 @@
+pandas
+numpy
+requests
+nltk
+spacy
+scikit-learn
+matplotlib
+seaborn
+gensim
+xgboost
+python-dotenv
+transformers
+torch
+bertopic

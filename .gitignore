@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+.env
+# Large dataset and CSV files
+master_cleaned_data.csv
+master_nlp_aspects.csv
+*.csv
+*.zip
